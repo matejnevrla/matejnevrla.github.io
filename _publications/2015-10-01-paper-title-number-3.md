@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Common Idiosyncratic Quantile Risk"
 collection: working papers
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://arxiv.org/abs/2208.14267
+excerpt: 'We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns.'
+date: 2023-06-05
+venue: 'Revise & Resubmit in Review of Finance'
+paperurl: 'https://arxiv.org/abs/2208.14267'
+citation: 'Barunik, J., Nevrla, M. (2023). &quot;Common Idiosyncratic Quantile Risk&quot; <i>Revise & Resubmit in Review of Finance</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[See paper here](https://arxiv.org/abs/2208.14267)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Barunik, J., Nevrla, M. (2023). "Common Idiosyncratic Quantile Risk" <i>Revise & Resubmit in Review of Finance</i>.
