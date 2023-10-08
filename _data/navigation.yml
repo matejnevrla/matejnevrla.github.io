@@ -20,3 +20,11 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+- title: Publications
+  url: /publications/
+  output: true
+  children:
+    - title: Working Papers
+      url: /publications/working-papers/
+      output: true
