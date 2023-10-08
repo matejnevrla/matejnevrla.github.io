@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://doi.org/10.1093/jjfinec/nbac017
+excerpt: 'This article investigates how two important sources of risk—market tail risk (TR) and extreme market volatility risk—are priced into the cross-section of asset returns across various investment horizons.'
+date: 2022-06-11
+venue: 'Journal of Financial Econometrics'
+paperurl: 'https://doi.org/10.1093/jjfinec/nbac017'
+citation: 'Barunik, J., Nevrla, M. (2022). &quot;Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices&quot; <i>Journal of Financial Econometrics</i>. Forthcoming.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This article investigates how two important sources of risk—market tail risk (TR) and extreme market volatility risk—are priced into the cross-section of asset returns across various investment horizons.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[See paper here](https://doi.org/10.1093/jjfinec/nbac017)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Barunik, J., Nevrla, M. (2022). "Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices&quot" <i>Journal of Financial Econometrics</i>. Forthcoming.
