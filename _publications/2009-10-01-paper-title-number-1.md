@@ -12,4 +12,4 @@ This article investigates how two important sources of risk—market tail risk (
 
 [See paper here](https://doi.org/10.1093/jjfinec/nbac017)
 
-Recommended citation: Barunik, J., Nevrla, M. (2022). "Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices&quot" <i>Journal of Financial Econometrics</i>. Forthcoming.
+Recommended citation: Barunik, J., Nevrla, M. (2022). "Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices" <i>Journal of Financial Econometrics</i>. Forthcoming.
