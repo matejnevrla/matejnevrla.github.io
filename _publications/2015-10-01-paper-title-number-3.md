@@ -1,6 +1,6 @@
 ---
 title: "Common Idiosyncratic Quantile Risk"
-collection: working papers
+collection: publications
 permalink: https://arxiv.org/abs/2208.14267
 excerpt: 'We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns.'
 date: 2023-06-05
