@@ -13,7 +13,7 @@ author_profile: true
   - *Year*: 2022, forthcoming
   - *Link*: [Paper Link](https://doi.org/10.1093/jjfinec/nbac017)
   - *Code*: [R package](https://github.com/barunik/QSbeta)
-  - *Award*: [1st place in the Competition for the Best Student Paper in Theoretical Economics, The Czech Econometric Society](http://ces.utia.cas.cz/2019zapis.pdf)
+  - *Award*: 1st place in the [Competition for the Best Student Paper in Theoretical Economics, The Czech Econometric Society](http://ces.utia.cas.cz/2019zapis.pdf)
   - **Abstract**: This article investigates how two important sources of risk—market tail risk (TR) and extreme market volatility risk—are priced into the cross-section of asset returns across various investment horizons. To identify such risks, we propose a quantile spectral (QS) beta representation of risk based on the decomposition of covariance between indicator functions that capture fluctuations over various frequencies. We study the asymptotic behavior of the proposed estimators of such risk. Empirically, we find that TR is a short-term phenomenon, whereas extreme volatility risk is priced by investors in the long term when pricing a cross-section of individual stocks. In addition, we study popular industry, size and value, profit, investment, or book-to-market portfolios, as well as portfolios constructed from various asset classes, portfolios sorted on cash flow duration, and other strategies. These results reveal that tail-dependent and horizon-specific risks are priced heterogeneously across datasets and are important sources of risk for investors.
   
 ## Working Papers
