@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Research
 permalink: /research/
+title: "Research"
+excerpt: "Research"
+author_profile: true
+layout: page
 ---
 
 ## Publications
@@ -11,8 +13,8 @@ permalink: /research/
   - *Journal*: Journal Name
   - *Year*: 2022
   - *Link*: [Paper Link](https://example.com/paper1)
-
- ## Working Papers
+  
+## Working Papers
 
 - **Title of Working Paper 1**
   - *Co-Authors*: John Doe, Jane Smith
