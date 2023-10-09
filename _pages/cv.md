@@ -5,4 +5,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/cv.pdf" width="100%" height="800px"></iframe>
+<object data="/files/cv.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Your browser does not support viewing PDF files directly. You can <a href="/files/cv.pdf">download the PDF</a> instead.</p>
+</object>
