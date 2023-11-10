@@ -12,4 +12,4 @@ I am a finishing Ph.D. candidate at the [Institute of Economic Studies](https://
 
 My research was published in the *Journal of Financial Econometrics* (see [here](https://doi.org/10.1093/jjfinec/nbac017)) and is in the Revise & Resubmit stage in the *Review of Finance* (see [here](https://arxiv.org/abs/2208.14267)).
 
-I am in the 2023/24 **job market**. You can find my job market paper here soon.
+I am in the 2023/24 **job market**. You can find my job market paper [here](https://matejnevrla.github.io/jmp/).
