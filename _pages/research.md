@@ -20,12 +20,12 @@ author_profile: true
 
 - **Common Idiosyncratic Quantile Risk**
   - *Co-Authors*: [Jozef Barunik](https://barunik.github.io)
-  - *Status*: **Review of Finance**, Revise & Resubmit
+  - *Status*: Revise & Resubmit, **Review of Finance**
   - *Link*: [Paper Link](https://arxiv.org/abs/2208.14267)
   - *Abstract*: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factor is associated with a quantile-specific risk premium and provides new insights into how upside and downside risks are priced by investors. In contrast to the previous literature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We discuss how the new quantile-based risk factor differs from popular volatility and downside risk factors, and we identify where the quantile-dependent risks deserve greater compensation. Quantile factors also have predictive power for aggregate market returns.
  
 - **Asymmetric Risks: Alphas or Betas?**
   - *Co-Authors*: Solo-authored
-  - *Status*: Draft coming soon.
-  - *Link*: TBA
-  - *Abstract*: TBA
+  - *Status*: Early draft
+  - *Link*: [Paper Link](https://matejnevrla.github.io/files/arm.pdf)
+  - *Abstract*: I show that systematic asymmetric risk measures, such as coskewness or tail risk beta, can complement each other when implementing an investment strategy based on them. I propose a simple approach to combining these measures and obtaining anomalous returns above the premiums associated with each measure separately. I show that various multivariate regression setups that combine the asymmetric risk measures perform poorly. Instead, I use instrumented principal component analysis and construct portfolios that are hedged against the common sources of risk associated with these measures. The resulting portfolios enjoy abnormal returns that no other factor model can fully explain. Allowing for time variation in the compensation for bearing asymmetric risks leads to a loss of efficiency, and the momentum factor spans the resulting portfolios. I also show that some asymmetric risk measures can contribute significantly to the performance of a model with a linear factor structure.
