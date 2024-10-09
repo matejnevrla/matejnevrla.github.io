@@ -195,8 +195,8 @@ collections:
 
 # Defaults
 defaults:
-  - header:
-        image: /assets/images/university-logo.png
+  header:
+    image: /assets/images/university-logo.png
   # _posts
   - scope:
       path: ""
