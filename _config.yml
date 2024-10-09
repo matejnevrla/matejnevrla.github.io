@@ -116,10 +116,6 @@ author:
   youtube          :
   wikipedia        :
 
-assets:
-  sources:
-    - _assets
-    - assets
 
 # Reading Files
 include:
@@ -192,6 +188,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# _config.yml
+assets:
+  stylesheets:
+    - /assets/css/custom.css
 
 # Defaults
 defaults:
