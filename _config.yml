@@ -201,7 +201,7 @@ defaults:
     values:
       layout: single
       header:
-        image: assets/images/UoL-MS-logo.png #university-logo.jpg
+        image: https://github.com/matejnevrla/matejnevrla.github.io/blob/master/assets/images/university-logo.jpg #university-logo.jpg
   # _posts
   - scope:
       path: ""
