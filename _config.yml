@@ -190,6 +190,9 @@ collections:
 
 # _config.yml
 assets:
+  sources:
+    - _assets
+    - assets
   stylesheets:
     - /assets/css/custom.css
 
