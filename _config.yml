@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Matej Nevrla"
 description              : &description "personal description"
 url                      : https://matejnevrla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "matejnevrla" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/matejnevrla" # the subpath of your site, e.g. "/blog"
 repository               : "matejnevrla/matejnevrla.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
