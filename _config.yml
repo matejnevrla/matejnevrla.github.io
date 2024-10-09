@@ -195,12 +195,12 @@ collections:
 
 # Defaults
 defaults:
+  - header:
+        image: /assets/images/university-logo.png
   # _posts
   - scope:
       path: ""
       type: posts
-      header:
-        image: /assets/images/university-logo.png
     values:
       layout: single
       author_profile: true
