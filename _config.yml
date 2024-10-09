@@ -196,14 +196,12 @@ collections:
 # Defaults
 defaults:
   # about
-  # _config.yml
   - scope:
-      path: "" # Empty string for all pages
+      path: "" 
     values:
       layout: single
       header:
         image: assets/images/university-logo.jpg
-
   # _posts
   - scope:
       path: ""
