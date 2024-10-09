@@ -201,7 +201,7 @@ defaults:
     values:
       layout: single
       header:
-        image: assets/images/university-logo.jpg
+        image: assets/images/UoL-MS-logo.png #university-logo.jpg
   # _posts
   - scope:
       path: ""
