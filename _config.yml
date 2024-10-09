@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matej Nevrla"
   avatar           : "profile_2.jpg"#"profile.png"
-  bio              : "Ph.D. canditate in Economics, Charles University"
-  location         : "Prague, Czech Republic"
+  bio              : "Lecturer in Finance, University of Liverpool Management School"
+  location         : "Liverpool, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=G7x9H6MAAAAJ&hl=cs&authuser=2&oi=ao"
-  email            : "matej.nevrla@fsv.cuni.cz"
+  email            : "matej.nevrla@liverpool.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Matej-Nevrla"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/matěj-nevrla-239320293"
   orcid            : "https://orcid.org/0000-0001-5609-1341"
   pinterest        :
   soundcloud       :
