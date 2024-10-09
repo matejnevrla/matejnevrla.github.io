@@ -201,7 +201,7 @@ defaults:
     values:
       layout: single
       header:
-        image: https://github.com/matejnevrla/matejnevrla.github.io/blob/master/assets/images/university-logo.jpg #university-logo.jpg
+        image: https://matejnevrla.github.io/assets/images/university-logo.jpg #university-logo.jpg
   # _posts
   - scope:
       path: ""
