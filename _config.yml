@@ -199,6 +199,8 @@ defaults:
   - scope:
       path: ""
       type: posts
+      header:
+        image: /assets/images/university-logo.png
     values:
       layout: single
       author_profile: true
@@ -206,8 +208,6 @@ defaults:
       comments: true
       share: true
       related: true
-      header:
-        image: /assets/images/university-logo.png
   # _page
   - scope:
       path: ""
