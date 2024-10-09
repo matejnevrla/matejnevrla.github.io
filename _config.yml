@@ -79,7 +79,7 @@ analytics:
 
 # Header part
 header:
-  image: /assets/images/UoL,-,ULMS,Email,Signature.jpg
+  image: "/assets/images/UoL,-,ULMS,Email,Signature.jpg"
 
 
 # Site Author
