@@ -1,0 +1,8 @@
+/* Custom CSS for resizing the header image */
+.header-image img {
+  max-width: 400px; /* Adjust the width to your desired size */
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+  margin: 0; /* Remove default margin */
+  margin-left: 0; /* Aligns the image to the left */
+}
