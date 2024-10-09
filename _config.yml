@@ -206,7 +206,9 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+      header:
+        image: /assets/images/university-logo.png
+  # _page
   - scope:
       path: ""
       type: pages
