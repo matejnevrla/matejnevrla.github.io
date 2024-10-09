@@ -116,6 +116,10 @@ author:
   youtube          :
   wikipedia        :
 
+assets:
+  sources:
+    - _assets
+    - assets
 
 # Reading Files
 include:
