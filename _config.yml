@@ -202,7 +202,7 @@ defaults:
     values:
       layout: single
       header:
-        image: assets/images/university-logo.png
+        image: assets/images/university-logo.jpg
 
   # _posts
   - scope:
