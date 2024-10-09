@@ -191,7 +191,7 @@ collections:
 # _config.yml
 assets:
   stylesheets:
-    - https://matejnevrla.github.io/assets/css/custom.css
+    - /assets/css/custom.css?v=1.0
 
 # Defaults
 defaults:
