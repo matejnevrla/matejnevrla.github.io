@@ -190,11 +190,8 @@ collections:
 
 # _config.yml
 assets:
-  sources:
-    - _assets
-    - assets
   stylesheets:
-    - /assets/css/custom.css
+    - https://matejnevrla.github.io/assets/css/custom.css
 
 # Defaults
 defaults:
