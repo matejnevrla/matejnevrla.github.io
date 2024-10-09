@@ -195,8 +195,6 @@ assets:
 
 # Defaults
 defaults:
-
-  about
   - scope:
       path: "" 
     values:
