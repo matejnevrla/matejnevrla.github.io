@@ -77,6 +77,10 @@ analytics:
   google:
     tracking_id          :
 
+# Header part
+header:
+  image: /assets/images/UoL,-,ULMS,Email,Signature.jpg
+
 
 # Site Author
 author:
