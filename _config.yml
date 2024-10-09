@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=G7x9H6MAAAAJ&hl=cs&authuser=2&oi=ao"
   email            : "matej.nevrla@liverpool.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Matej-Nevrla"
+  researchgate     : #"https://www.researchgate.net/profile/Matej-Nevrla"
   uri              :
   bitbucket        :
   codepen          :
