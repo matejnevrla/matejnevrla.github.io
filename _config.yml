@@ -202,8 +202,7 @@ defaults:
       layout: single
       header:
         overlay_image: https://matejnevrla.github.io/assets/images/university-logo.png
-        overlay_filter: 0.5
-        caption: "University Logo"
+        overlay_filter: 1
   # _posts
   - scope:
       path: ""
