@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://matejnevrla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matejnevrla/matejnevrla.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "UoL,-,ULMS,Email,Signature.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -76,10 +76,6 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
-# Header part
-header:
-  image: "/assets/images/UoL,-,ULMS,Email,Signature.jpg"
 
 
 # Site Author
