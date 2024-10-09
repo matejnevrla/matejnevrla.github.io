@@ -195,8 +195,20 @@ collections:
 
 # Defaults
 defaults:
-  header:
-    image: /assets/images/university-logo.png
+  # about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      header:
+        image: /assets/images/university-logo.png
+
   # _posts
   - scope:
       path: ""
