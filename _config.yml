@@ -196,16 +196,11 @@ collections:
 # Defaults
 defaults:
   # about
+  # _config.yml
   - scope:
-      path: ""
-      type: about
+      path: "" # Empty string for all pages
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
       header:
         image: /assets/images/university-logo.png
 
