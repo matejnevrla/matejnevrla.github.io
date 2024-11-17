@@ -10,7 +10,7 @@ author_profile: true
 - **Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices**
   - *Co-Authors*: [Jozef Barunik](https://barunik.github.io)
   - *Journal*: **Journal of Financial Econometrics**
-  - *Year*: 2022, forthcoming
+  - *Year*: 2023
   - *Link*: [Paper Link](https://doi.org/10.1093/jjfinec/nbac017)
   - *Code*: [R package](https://github.com/barunik/QSbeta)
   - *Award*: 1st place in the [Competition for the Best Student Paper in Theoretical Economics, The Czech Econometric Society](http://ces.utia.cas.cz/2019zapis.pdf)
@@ -23,7 +23,7 @@ author_profile: true
   - *Status*: Revise & Resubmit, **Review of Finance**
   - *Link*: [Paper Link](/files/common_idio_quant_revised.pdf)
   - *Data*: [Here](https://github.com/matejnevrla/Common-Idiosyncratic-Quantile-Risk)
-  - *Abstract*: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factor is associated with a quantile-specific risk premium and provides new insights into how upside and downside risks are priced by investors. In contrast to the previous literature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We discuss how the new quantile-based risk factor differs from popular volatility and downside risk factors, and we identify where the quantile-dependent risks deserve greater compensation. Quantile factors also have predictive power for aggregate market returns.
+  - *Abstract*: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factors are associated with a quantile-specific risk premia and provide new insights into how upside and downside risks are priced by investors. In contrast to the previous literature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We discuss how the new quantile-based risk factors differ from popular volatility and downside risk factors, and we identify heterogeneous implications of quantile-dependent risks for asset prices. Quantile factors also have predictive power for aggregate market returns. We explore potential mechanisms that give rise to these asset pricing facts.
  
 - **Asymmetric Risks: Alphas or Betas?**
   - *Co-Authors*: Solo-authored
