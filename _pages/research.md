@@ -20,7 +20,7 @@ author_profile: true
 
 - **Common Idiosyncratic Quantile Risk**
   - *Co-Authors*: [Jozef Barunik](https://barunik.github.io)
-  - *Status*: Revise & Resubmit, **Review of Finance**
+  - *Status*: Submitted
   - *Link*: [Paper Link](/files/common_idio_quant_revised.pdf)
   - *Data*: [Here](https://github.com/matejnevrla/Common-Idiosyncratic-Quantile-Risk)
   - *Abstract*: We identify a new type of risk that is characterised by commonalities in the quantiles of the cross-sectional distribution of asset returns. Our newly proposed quantile risk factors are associated with a quantile-specific risk premia and provide new insights into how upside and downside risks are priced by investors. In contrast to the previous literature, we recover the common structure in cross-sectional quantiles without making confounding assumptions or aggregating potentially non-linear information. We discuss how the new quantile-based risk factors differ from popular volatility and downside risk factors, and we identify heterogeneous implications of quantile-dependent risks for asset prices. Quantile factors also have predictive power for aggregate market returns. We explore potential mechanisms that give rise to these asset pricing facts.
