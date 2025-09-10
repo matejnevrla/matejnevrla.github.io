@@ -20,7 +20,7 @@ author_profile: true
 
 - **Beyond Volatility: Common Factors innIdiosyncratic Quantile Risks**
   - *Co-Authors*: [Jozef Barunik](https://barunik.github.io)
-  - *Status*: Submitted
+  - *Status*: Reject & Resubmit, **Journal of Financial and Quantitative Analysis**
   - *Link*: [Paper Link](/files/common_idio_quant_revised.pdf)
   - *Data*: [Here](https://github.com/matejnevrla/Common-Idiosyncratic-Quantile-Risk)
   - *Abstract*: This study extracts latent factors from the cross-sectional quantiles of firm-level idiosyncratic returns and demonstrates that they carry information that is missed by conventional volatility measures. Notably, exposure to the lower-tail common idiosyncratic quantile factor entails a distinctive risk premium that cannot be explained by existing volatility, downside or tail-related risk factors or characteristics. Furthermore, we demonstrate that factor structures derived from quantiles across the return distribution--which capture its asymmetric features--also possess predictive capabilities regarding aggregate market returns.
