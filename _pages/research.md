@@ -9,7 +9,7 @@ author_profile: true
 
 - **Quantile Spectral Beta: A Tale of Tail Risks, Investment Horizons, and Asset Prices**
   - *Co-Authors*: [Jozef Barunik](https://barunik.github.io)
-  - *Journal*: **Journal of Financial Econometrics**
+  - *Journal*: *Journal of Financial Econometrics*
   - *Year*: 2023
   - *Link*: [Paper Link](https://doi.org/10.1093/jjfinec/nbac017)
   - *Code*: [R package](https://github.com/barunik/QSbeta)
@@ -18,12 +18,12 @@ author_profile: true
   
 ## Working Papers
 
-- **Beyond Volatility: Common Factors innIdiosyncratic Quantile Risks**
+- **Common Idiosyncratic Quantile Factors and Asset Prices**
   - *Co-Authors*: [Jozef Barunik](https://barunik.github.io)
-  - *Status*: Revise & Resubmit, **Journal of Financial and Quantitative Analysis**
-  - *Link*: [Paper Link](/files/common_idio_quant_revised.pdf)
+  - *Status*: Revise & Resubmit, *Journal of Financial and Quantitative Analysis*
+  - *Link*: [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4204916)
   - *Data*: [Here](https://github.com/matejnevrla/Common-Idiosyncratic-Quantile-Risk)
-  - *Abstract*: This study extracts latent factors from the cross-sectional quantiles of firm-level idiosyncratic returns and demonstrates that they carry information that is missed by conventional volatility measures. Notably, exposure to the lower-tail common idiosyncratic quantile factor entails a distinctive risk premium that cannot be explained by existing volatility, downside or tail-related risk factors or characteristics. Furthermore, we demonstrate that factor structures derived from quantiles across the return distribution--which capture its asymmetric features--also possess predictive capabilities regarding aggregate market returns.
+  - *Abstract*: We investigate whether the tails of firm-level idiosyncratic return distributions are driven by common shocks. We use quantile factor analysis to extract such common idiosyncratic quantile factors with asymmetric pricing effects and we find a significant premium for innovations to the lower-tail factor: high-beta stocks outperform low-beta stocks by around 7-8% per year. This premium remains significant even when controlling for standard factors, idiosyncratic volatility and tail-risk measures. The downside factor strengthens when intermediary capital is weak and market liquidity is low, and it predicts aggregate market excess returns.
  
 - **Asymmetric Risks: Alphas or Betas?**
   - *Co-Authors*: Solo-authored
