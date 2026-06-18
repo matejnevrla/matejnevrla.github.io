@@ -23,7 +23,7 @@ author_profile: true
 
 ## Working Papers
 
-- **Asymmetric Risks: Alphas or Betas?**
+- **The Priced Dimensionality of Asymmetric Risk**
   - *Co-Authors*: Solo-authored
   - *Status*: Updated draft coming soon
   - **Abstract**: TBA.
