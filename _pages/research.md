@@ -20,6 +20,7 @@ author_profile: true
   - *Journal*: **Journal of Financial and Quantitative Analysis**, forthcoming
   - *Year*: 2026
   - *Data*: [Here](https://github.com/matejnevrla/Common-Idiosyncratic-Quantile-Risk)
+  - *Code*: [Harvard Dataverse](https://doi.org/10.7910/DVN/FGBA0E)
   - **Abstract**: We investigate whether the tails of firm-level idiosyncratic return distributions are driven by common shocks. We use quantile factor analysis to extract such common idiosyncratic quantile factors with asymmetric pricing effects, and we find a significant premium for innovations to the lower-tail factor: high-exposure stocks outperform low-exposure stocks by approximately 7-8% per year. This premium remains significant even when controlling for standard factors, idiosyncratic volatility, and tail-risk measures. The downside factor strengthens when intermediary capital is weak and market liquidity is low, and the associated increase in risk predicts higher aggregate market excess returns.
 
 ## Working Papers
