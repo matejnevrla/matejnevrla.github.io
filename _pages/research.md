@@ -27,5 +27,6 @@ author_profile: true
 
 - **The Priced Dimensionality of Asymmetric Risk**
   - *Co-Authors*: Solo-authored
-  - *Status*: Updated draft coming soon
-  - **Abstract**: TBA.
+  - *Status*: Updated draft coming soon.
+  - *Data*: [Here](https://github.com/matejnevrla/priced-dimensions-asymmetric-risk)
+  - **Abstract**: Do the many measures of asymmetric risk identify one downside factor or several priced dimensions? We study compensation for asymmetric risk in U.S. equities, separating robust premia, distinct return variation, and priced dimensions. Five measure families organize around three recurring priced dimensions rather than a single downside factor. Multiple dimensions receive compensation across periods and portfolio constructions, although their relative pricing strength varies over time. The resulting three-factor benchmark is not jointly spanned by leading factor models. The dimensions also exhibit distinct predictive relations with aggregate conditions. The results distinguish new measures from new priced risks.
