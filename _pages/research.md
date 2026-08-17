@@ -25,7 +25,7 @@ author_profile: true
 
 ## Working Papers
 
-- [**The Priced Dimensionality of Asymmetric Risk**](/files/arm_dimensionality.pdf)
+- [**The Priced Dimensionality of Asymmetric Risk**](https://dx.doi.org/10.2139/ssrn.7266978)
   - *Co-Authors*: Solo-authored
   - *Status*: **New draft!**
   - *Data*: [Here](https://github.com/matejnevrla/priced-dimensions-asymmetric-risk)
